@@ -1,0 +1,8 @@
+<resources>
+    <string name="Map_Lab">Maps Lab Part 1</string>
+    <string name="location_out">You are are accessing a space out of the earth bounds.</string>
+    <string name="button_navigate">Navigate</string>
+    <string name="text_latitude">Latitude</string>
+    <string name="text_longitude">Longitude</string>
+    <string name="text_location">Location</string>
+</resources>
